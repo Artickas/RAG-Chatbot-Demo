@@ -1,0 +1,18 @@
+Troubleshooting Guide for XYZ Wireless Earbuds
+
+Issue: Earbuds not charging.
+Solution: Ensure the charging case has power. Check the charging cable and adapter. Clean the charging contacts on both earbuds and the case with a dry cotton swab. If still not charging, contact support.
+
+Issue: One earbud not working.
+Solution:
+1. Ensure both earbuds are charged.
+2. Try resetting the earbuds (refer to the product manual for instructions).
+3. Re-pair the earbuds with your device.
+4. If the issue persists, it might be a hardware problem.
+
+Issue: Low volume or distorted sound.
+Solution:
+1. Check the volume level on your connected device.
+2. Ensure there's no obstruction in the earbud's speaker grill.
+3. Try playing audio from a different source to rule out the media file.
+4. Clean the earbuds.

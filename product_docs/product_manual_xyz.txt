@@ -1,0 +1,23 @@
+Product Manual for XYZ Wireless Earbuds
+
+1. Introduction:
+   Welcome to your new XYZ Wireless Earbuds! These earbuds offer high-quality audio and a comfortable fit.
+
+2. Charging:
+   To charge your earbuds, place them in the charging case. The LED indicator on the case will show battery status. A full charge takes approximately 1.5 hours.
+
+3. Pairing:
+   Open the charging case. The earbuds will automatically enter pairing mode. On your device (phone/laptop), go to Bluetooth settings and select "XYZ Earbuds". The earbuds will emit a sound upon successful connection.
+
+4. Controls:
+   - Single tap (left/right): Play/Pause
+   - Double tap (right): Next song
+   - Double tap (left): Previous song
+   - Triple tap (left/right): Activate voice assistant
+
+5. Troubleshooting:
+   - If earbuds are not connecting, ensure they are charged and try resetting them (see section 6).
+   - If audio is distorted, check your device's volume and ensure no interference.
+
+6. Resetting the Earbuds:
+   To reset your XYZ Wireless Earbuds to factory settings, place both earbuds in the charging case. Press and hold the button on the charging case for 15 seconds until the LED light blinks red three times. Then, close the case and reopen it.
